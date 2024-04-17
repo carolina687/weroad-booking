@@ -1,7 +1,11 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxtjs/tailwindcss'],
+  extends: ['@nuxt/ui-pro'],
+  modules: ["@nuxt/image", "@nuxt/ui", '@nuxt/test-utils/module'],
+  alias: {
+    assets: "/<rootDir>/asstes"
+  },
   tailwindcss: {
     cssPath: ['~/assets/css/tailwind.css', { injectPosition: "first" }],
     configPath: 'tailwind.config',
