@@ -1,5 +1,8 @@
 # WeRoad Project
 
+## Before Setup
+A PDF document was sent via email with the link for this repo. Please read the document before starting the setup process. 
+
 ## Setup
 
 Make sure to install the dependencies:
