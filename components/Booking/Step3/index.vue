@@ -15,7 +15,7 @@ const paymentTypes = [
 
 const state: Partial<Booking> = reactive({
   payment: undefined,
-  notes: undefined,
+  notes: "",
 });
 
 const handleSubmit = async (event: FormSubmitEvent<Partial<Booking>>) =>

@@ -1,12 +1,12 @@
 <script setup lang="ts">
 const links = [
   {
-    label: "Booking",
-    to: "/booking",
-  },
-  {
     label: "Travels",
     to: "/",
+  },
+  {
+    label: "Booking",
+    to: "/booking",
   },
 ];
 </script>

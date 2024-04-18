@@ -6,7 +6,7 @@ export const travels = [
         "arrivalDate": "2024-04-19T17:33:19.356Z",
         "image": "https://strapi-imaginary.weroad.it/resource/large/2297/Amalfi-coast-landscape-blue.jpg",
         "description": "A very cool trip",
-        "price": 99,
+        "price": 450,
         "rating": 4.8,
         "type": "Express"
     },
@@ -17,8 +17,8 @@ export const travels = [
         "arrivalDate": "2024-04-19T17:33:19.356Z",
         "image": "https://strapi-imaginary.weroad.it/resource/webp-large/9437/Crete-sea-landscape-boat-blue.webp",
         "description": "A very cool trip",
-        "price": 99,
-        "rating": 4.8,
+        "price": 275,
+        "rating": 4.7,
         "type": "Beach Life"
     },
     {
@@ -29,7 +29,7 @@ export const travels = [
         "image": "https://strapi-imaginary.weroad.it/resource/large/2094/viaggio-albania-tour-8-giorni.jpg",
         "description": "A very cool trip",
         "price": 99,
-        "rating": 4.8,
+        "rating": 3.9,
         "type": "360"
     },
     {
@@ -40,7 +40,7 @@ export const travels = [
         "image": "https://strapi-imaginary.weroad.it/resource/large/21462/viaggio-marocco-deserto-estate.jpg",
         "description": "A very cool trip",
         "price": 99,
-        "rating": 4.8,
+        "rating": 4.2,
         "type": "Express"
     },
     {
@@ -50,8 +50,8 @@ export const travels = [
         "arrivalDate": "2024-04-19T17:33:19.356Z",
         "image": "https://strapi-imaginary.weroad.it/resource/large/38716/costa-rica-beach-sea-caribbean-coast-explore.jpg",
         "description": "A very cool trip",
-        "price": 99,
-        "rating": 4.8,
+        "price": 1250,
+        "rating": 5,
         "type": "360"
     },
     {
@@ -61,8 +61,8 @@ export const travels = [
         "arrivalDate": "2024-04-19T17:33:19.356Z",
         "image": "https://strapi-imaginary.weroad.it/resource/large/34438/kappadokya-turkey-landscape-sunrise.jpeg",
         "description": "A very cool trip",
-        "price": 99,
-        "rating": 4.8,
+        "price": 987,
+        "rating": 4.9,
         "type": "360"
     }
 ]

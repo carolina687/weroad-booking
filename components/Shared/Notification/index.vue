@@ -15,7 +15,7 @@ const closeNotification = () => emit("close");
     icon="i-heroicons-check-circle"
     :title="props.title"
     :id="1"
-    class="absolute z-10 w-4/5"
+    class="absolute z-10 w-4/5 max-w-4xl"
     :callback="closeNotification"
     :color="successStatus ? 'primary' : 'bg-red-500'"
   />
